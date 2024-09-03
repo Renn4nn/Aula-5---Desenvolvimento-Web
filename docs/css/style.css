@@ -1,0 +1,19 @@
+body{
+    background-color:floralwhite;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(7, 7, 7);
+}
+
+th, td{
+    border-bottom: solid;
+    border-right: solid;
+}
+
+td:hover{
+    background-color:rgb(133, 233, 87);
+    color: blueviolet;
+}
